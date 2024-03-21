@@ -6,7 +6,7 @@
 
 ## Links
 
-- Live Site URL: [Lego SpaceX](https://lego-space-x.onrender.com/)
+- Live Site URL:- [Lego SpaceX](https://lego-space-x.onrender.com/)
 
 ## Built With
 
@@ -17,3 +17,10 @@
 
 - [MDN HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [TAILWIND CSS DOCS](https://tailwindcss.com/docs/installation)
+
+## Author
+
+- Website:- [Patrick Obama](https://developer-assets.github.io/)
+- Twitter:- [Cybicl](https://www.twitter.com/cybicl)
+- Email:- [Patrick Obama](mailto:https://999patrickobama@gmail.com)
+- LinkedIn:- [Patrick Obama](https://www.linkedin.com/in/patrick-obama-8269152bb/)
