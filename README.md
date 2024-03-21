@@ -6,12 +6,12 @@
 
 ## Links
 
-- Live Site URL: [](https://lego-space-x.onrender.com/)
+- Live Site URL: [Lego SpaceX](https://lego-space-x.onrender.com/)
 
 ## Built With
 
--HTML5
--Tailwind CSS
+- HTML5
+- Tailwind CSS
 
 ## Useful Resourses
 
