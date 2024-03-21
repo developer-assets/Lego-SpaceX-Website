@@ -1,3 +1,19 @@
-This a simple web page built with tailwind CSS
+# Lego SpaceX Website
 
-Project hosted at:- https://lego-space-x.onrender.com/
+## Screenshot
+
+![](./build/screen/screen.png)
+
+## Links
+
+- Live Site URL: [](https://lego-space-x.onrender.com/)
+
+## Built With
+
+-HTML5
+-Tailwind CSS
+
+## Useful Resourses
+
+- [MDN HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [TAILWIND CSS DOCS](https://tailwindcss.com/docs/installation)
