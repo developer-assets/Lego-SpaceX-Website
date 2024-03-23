@@ -1,5 +1,8 @@
 # Lego SpaceX Website
 
+## Descripption
+- Simple website.
+
 ## Screenshot
 
 ![](./build/screen/screen.png)
